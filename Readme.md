@@ -18,7 +18,7 @@ I'm always eager to take on new challenges and collaborate on exciting projects 
 
 ## 🛠️ Tools and Skills I've used
 
-[![My Skills](https://skillicons.dev/icons?i=react,docker,express,git,github,js,html,css,nodejs,npm,php,postman,tailwind,vite,vue,wordpress,linux,sass,mysql,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,git,github,js,html,css,nodejs,npm,php,postman,tailwind,vite,vue,wordpress,linux,sass,mysql,laravel)](https://skillicons.dev)
 
 
 ## 📊 Github Stats
