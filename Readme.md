@@ -8,7 +8,7 @@ Fundamental understanding of mobile first design concepts, API implemetation and
 
 I'm always eager to take on new challenges and collaborate on exciting projects . Let's connect and explore opportunities together.
 
-## 🛠️ Here's my tech stack
+### Here's my tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,express,nodejs,mongodb,mysql)](https://skillicons.dev)
 
