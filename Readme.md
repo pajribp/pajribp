@@ -1,5 +1,5 @@
 
-# Hi there, you can call me Fajri 👋
+# Hi there👋
 
 ## About me
 I'm passionate about web development and design. Familiar with modern Front End and Back End framework such as NextJS ( ReactJS ) and Node JS using Javascript or Typescript.
