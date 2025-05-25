@@ -14,6 +14,6 @@ I'm always eager to take on new challenges and collaborate on exciting projects 
 
 
 ## 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pajribp&show_icons=true&bg_color=00000000)
 
 
