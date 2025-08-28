@@ -2,7 +2,7 @@
 # Hi there👋
 Simplify something to make it easier
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,docker,nestjs,kali)](https://skillicons.dev)
 
 
 ## 📊 Github Stats
